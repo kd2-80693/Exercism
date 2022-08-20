@@ -1,7 +1,6 @@
 import java.lang.* ;
 class BirdWatcher {
-    private final int[] birdsPerDay;
-     
+    private final int[] birdsPerDay; 
 
     public BirdWatcher(int[] birdsPerDay) {
         this.birdsPerDay = birdsPerDay.clone();
@@ -26,7 +25,6 @@ class BirdWatcher {
             if(i==0){
                 return true;
             }
-            
         }
         return false;
     }
