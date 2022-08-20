@@ -34,7 +34,6 @@ class IsbnVerifier {
             if(!Character.isDigit(c)){
                 return false;
             }
-        
         }
         return true;
     }
