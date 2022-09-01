@@ -21,5 +21,4 @@ class Darts {
             return 10;
         }
     }
-
 }
