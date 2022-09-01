@@ -9,7 +9,6 @@ abstract class Fighter {
     }
 
     abstract int damagePoints(Fighter fighter);
-
 }
 
 class Warrior extends Fighter {
