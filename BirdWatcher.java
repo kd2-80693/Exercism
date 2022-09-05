@@ -1,5 +1,6 @@
 import java.lang.* ;
 class BirdWatcher {
+    
     private final int[] birdsPerDay; 
 
     public BirdWatcher(int[] birdsPerDay) {
