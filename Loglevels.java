@@ -13,8 +13,7 @@ public class LogLevels {
             String s = logLine.substring(8,logLine.length()).trim();
             return s;
         }
-        
-        }
+    }
 
     public static String logLevel(String logLine) {
         if(logLine.charAt(1) == 'E'){
