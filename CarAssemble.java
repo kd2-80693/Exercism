@@ -19,8 +19,7 @@ public class CarsAssemble {
         else {
             return  s * 221 * 77 /100 ; 
             
-        }
-        
+        }   
     }
 
     public int workingItemsPerMinute(int speed) {
