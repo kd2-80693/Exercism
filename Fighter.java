@@ -7,7 +7,6 @@ abstract class Fighter {
     public String toString() {
         return "Fighter is a Wizard" ;
     }
-
     abstract int damagePoints(Fighter fighter);
 }
 
