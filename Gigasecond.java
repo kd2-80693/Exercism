@@ -15,3 +15,4 @@ public class Gigasecond {
         return this.date.plusSeconds(1000000000L);
     }
 }
+
